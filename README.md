@@ -1,4 +1,4 @@
-Avalon-USB-Converter
+Avalon-USB2IIC-Converter-3
 ====================
 Avalon-USB-Converter is an USB2IIC & USB2UART converter based on LPC USB Serial I/O Library.
 
@@ -18,8 +18,7 @@ IDE Support
 
 Discussion
 ==========
-* IRC: #avalon @freenode.net
-* Mailing list: http://lists.canaan-creative.com/
+* SOON
 
 License
 =======
